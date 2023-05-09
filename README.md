@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wasureta333
-- 👀 I’m interested in coding, expecially in C and Python
-- 🌱 I’m currently learning Python, 3D modelling
+- 👀 I’m interested in coding, expecially in C and Java
+- 🌱 I’m currently learning C++, 3D modelling and Aseprite
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mail marco.lana001@gmail.com
 
