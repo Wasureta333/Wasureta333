@@ -1,4 +1,4 @@
-- Hi! My name is Marco. I'm a developer from Turin. I'm currently working on a stats tracking website - using React and Nodejs. I'm also competent in various low level prog languages.
+- Hi! My name is Marco. I'm a developer from Turin. I'm currently working on a stats tracking website - using React and BunJS. I'm also competent in various low level prog languages.
 
 I work at Horsa, a software house located in Lingotto, Turin, as a Web & Mobile Developer.
 
