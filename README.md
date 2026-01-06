@@ -1,6 +1,6 @@
 - Hi! My name is Marco. I'm a developer from Turin. I'm currently working on a stats tracking website - using React and BunJS. I'm also competent in various low level prog languages.
 
-I work at Horsa, a software house located in Lingotto, Turin, as a Web & Mobile Developer.
+I work with Aubay Italy, a software house located in Turin, as a Power Automate Desktop Engineer.
 
 <!---
 Wasureta333/Wasureta333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
