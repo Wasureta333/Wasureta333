@@ -1,4 +1,4 @@
-- Hi! My name is Marco. I'm a developer from Turin. I'm currently working on a stats tracking website - using React and BunJS. I'm also competent in various low level prog languages.
+- Hi! My name is Marco. I'm a developer from Turin. I'm currently working on lolData - a League of Legends stats tracking website - using React and BunJS. I'm also competent in various low level prog languages.
 
 I work with Aubay Italy, a software house located in Turin, as a Power Automate Desktop Engineer.
 
